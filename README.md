@@ -1,2 +1,2 @@
 # agrundtisza.com
-Szerver
+
